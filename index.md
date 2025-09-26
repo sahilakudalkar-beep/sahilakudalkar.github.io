@@ -8,10 +8,6 @@ author_profile: true
 
 Hello! I am a third-year PhD student in the Sustainable Development program at Columbia University’s School of International and Public Affairs.
 
-My primary research interests are in natural resources, with a focus on biodiversity and fisheries.
+My primary research interests are in innovation, political economy and environment.
 
-Prior to joining Columbia, I worked as a Graduate Student Researcher in UCSD’s Environment and Policy Group where I worked on air pollution equity and wetlands restoration.
-
-I graduated Phi Beta Kappa and magna cum laude from UC San Diego where I received a BA in Economics-Public Policy, a BS in Environmental Systems, and a Master of Public Policy.
-
-In my free time, I enjoy playing the guitar, watching birds, and taking pictures! Nerdier hobbies include watching anime and playing Magic: The Gathering.
+I hold Masters degrees in Public Policy (The University of Chicago), and Conservation Biology (State University of New York). Prior to joining Columbia, I spent seven years of research and project management experience on topics such as wildlife trafficking, human-wildlife conflict, endangered species, resettlement of forest-dwellers from protected areas, and community-based conservation. In my free time, I enjoy bird-watching, hiking and running.  
